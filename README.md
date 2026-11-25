@@ -5,9 +5,9 @@ A responsive, single-page personal portfolio built with plain HTML, CSS and Java
 ## 1. Personalise before publishing
 
 Open `index.html` and update:
-- `YOUR_EMAIL@example.com` with your real email address.
-- The LinkedIn URL (`https://www.linkedin.com/`) with your profile URL.
-- The GitHub URL (`https://github.com/`) with your GitHub profile URL.
+- `akshitpatel2107@gmail.com` with your real email address.
+- The LinkedIn URL (`https://www.linkedin.com/in/akshitpatel2017/`) with your profile URL.
+- The GitHub URL (`https://github.com/Akshit-patel2107`) with your GitHub profile URL.
 
 Review the About and project descriptions. Keep project statuses accurate; change “concept”, “in development” or “academic project” only when appropriate.
 
